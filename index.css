@@ -1,0 +1,56 @@
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+div#etiqueta1{
+  margin:auto;
+  margin-top: auto;
+  padding: 20px;
+  width: 950px;
+  height:1000px;
+  background-color: #FFA600;
+  border-collapse: collapse;
+  border: 8px solid #00A6FF;
+}
+
+body{
+  font-family: verdana;
+}
+
+h1{
+  border-collapse: collapse;
+  border: 5px solid #08FF00;
+  text-align: center;
+  color: #00B9FF;
+  font-size: 80px;
+  background-color: #E3ED13;
+}
+
+p{
+  color: #0F33FF;
+  font-size: 20px;
+}
+
+table,th,caption {
+font-family: verdana;
+border-collapse: collapse;
+width: 100%;
+border: 4px solid #000000;
+background-color: #FF510B;
+
+}
+
+td{
+border: 4px solid #000000;
+text-align: center;
+padding: 1px;
+background-color: #4BF7A6;
+}
+
+.t1:hover{
+  color: #FF0000;
+}
+.t2:hover{
+  color: #007CFF;
+}
